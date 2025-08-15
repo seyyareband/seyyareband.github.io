@@ -4,7 +4,7 @@ permalink: /
 title: " "
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/img/seyyare-logo.png
+  overlay_image: /assets/img/seyyare-home.png
   # actions:
   #   - label: "<i class='fas fa-download'></i> Install now"
   #     url: "/docs/quick-start-guide/"
