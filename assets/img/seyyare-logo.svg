@@ -39,8 +39,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#333333;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 48.577403,184.22717 152.98502,97.570893"
+       style="fill:none;stroke:#333333;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.577403,176.81879 152.98502,90.162555"
        id="path13680" />
     <rect
        style="fill:#1a1a1a;stroke:none;stroke-width:0.488193;stroke-miterlimit:4;stroke-dasharray:none"
@@ -56,16 +56,16 @@
        xml:space="preserve"
        style="font-size:35.2778px;line-height:1.25;font-family:Linowrite;-inkscape-font-specification:Linowrite;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
        x="34.130955"
-       y="225.85464"
+       y="218.44641"
        id="text1818"><tspan
          sodipodi:role="line"
          id="tspan1816"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Sima DEMO';-inkscape-font-specification:'Sima DEMO';fill:#cccccc;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
          x="34.130955"
-         y="225.85464">seyyare</tspan></text>
+         y="218.44641">seyyare</tspan></text>
     <g
        id="g14948"
-       transform="translate(2.982025)">
+       transform="translate(2.982025,-7.4083337)">
       <text
          xml:space="preserve"
          style="font-size:54.371px;line-height:1.25;font-family:Linowrite;-inkscape-font-specification:Linowrite;fill:#333333;stroke-width:0.407787;stroke-miterlimit:4;stroke-dasharray:none"
