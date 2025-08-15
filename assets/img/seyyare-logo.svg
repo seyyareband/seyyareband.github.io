@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="seyyare-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.37812396"
+     inkscape:cx="398.01763"
+     inkscape:cy="597.6876"
+     inkscape:window-width="1312"
+     inkscape:window-height="916"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#333333;stroke-width:0.26458333;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 48.577403,184.22717 152.98502,97.570893"
+       id="path13680" />
+    <rect
+       style="fill:#1a1a1a;stroke:none;stroke-width:0.39724;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="257.37863"
+       height="246.02682"
+       x="-22.013214"
+       y="51.436375"
+       inkscape:export-filename="/Users/kbs/Documents/git/seyyareband.github.io/assets/img/seyyare-logo.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:35.2778px;line-height:1.25;font-family:Linowrite;-inkscape-font-specification:Linowrite;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       x="34.130955"
+       y="225.85464"
+       id="text1818"><tspan
+         sodipodi:role="line"
+         id="tspan1816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.2778px;font-family:'Sima DEMO';-inkscape-font-specification:'Sima DEMO';fill:#cccccc;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="34.130955"
+         y="225.85464">seyyare</tspan></text>
+    <g
+       id="g14948"
+       transform="translate(2.982025)">
+      <text
+         xml:space="preserve"
+         style="font-size:54.371px;line-height:1.25;font-family:Linowrite;-inkscape-font-specification:Linowrite;fill:#333333;stroke-width:0.407787;stroke-miterlimit:4;stroke-dasharray:none"
+         x="93.681679"
+         y="157.13194"
+         id="text1818-2"><tspan
+           sodipodi:role="line"
+           id="tspan1816-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.371px;font-family:'Sima DEMO';-inkscape-font-specification:'Sima DEMO';fill:#333333;stroke-width:0.407787;stroke-miterlimit:4;stroke-dasharray:none"
+           x="93.681679"
+           y="157.13194" /></text>
+      <circle
+         style="fill:none;stroke:#b3b3b3;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.264583, 1.5875;stroke-dashoffset:0"
+         id="path12726-3"
+         cx="91.841286"
+         cy="143.69965"
+         r="29.902767" />
+      <circle
+         style="fill:none;stroke:#cccccc;stroke-width:0.211667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.211667, 1.27;stroke-dashoffset:0"
+         id="path12726-3-8"
+         cx="132.49805"
+         cy="121.67809"
+         r="7.4757104" />
+      <circle
+         style="fill:none;stroke:#ececec;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path12726"
+         cx="104.76025"
+         cy="143.45551"
+         r="40.684761" />
+      <circle
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path13453"
+         cx="70.953552"
+         cy="165.40227"
+         r="3.581254" />
+      <circle
+         style="fill:#e6e6e6;stroke:none;stroke-width:0.14776;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path13453-7"
+         cx="133.08612"
+         cy="114.43515"
+         r="2" />
+    </g>
+  </g>
+</svg>
